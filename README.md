@@ -67,30 +67,45 @@ Gradient background, glass-effect cards, and responsive layout for a professiona
 📲 Frontend (Mobile App)#
 
 Flutter (Dart)
+
 Provider for state management
+
 Material Design UI components
+
 Custom UI/UX with gradient backgrounds, glassmorphism, responsive grids
 
 🌐 Backend#
 
 Node.js + Express
+
 RESTful API with structured routes and controllers
+
 Authentication with JWT
+
 CORS enabled for secure cross-origin requests
 
 🗄️ Database#
 
 MySQL with normalized tables:
+
 1- users (system users)
+
 2- roles (coach, player, parent)
+
 3- teams (team info)
+
 4- players (player details)
+
 5- calendar_events (coach and player events)
 
 📂 Project Architecture (Flutter)#
 
 1- models/ → Defines entities (UserModel, PlayerModel, TeamModel, CalendarModel).
+
 2- services/ → Handles HTTP requests (AuthService, PlayerService, TeamService, CalendarService).
+
 3- providers/ → Manages app-wide state and notifies UI of changes.
+
 4- controllers/ → Bridges UI and providers/services, handles logic.
+
 5- pages/ → UI pages (LoginPage, CoachPage, AddPlayerPage, AddTeamPage, CalendarPage, etc.).
