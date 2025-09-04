@@ -22,6 +22,7 @@ Players are linked to their respective teams using foreign key relations.
 
 <img width="374" height="793" alt="Screenshot 2025-09-02 at 11 34 14" src="https://github.com/user-attachments/assets/fd71b3ba-d64e-43e3-b1d2-15e8a7483a4f" />
 <img width="398" height="808" alt="Screenshot 2025-09-02 at 11 33 48" src="https://github.com/user-attachments/assets/bdce44f2-642e-4ae8-a153-e8109a5ed8c9" />
+<img width="379" height="781" alt="Screenshot 2025-09-02 at 11 34 20" src="https://github.com/user-attachments/assets/0741454e-90bf-4422-8b21-6ea79648d859" />
 
 3- Team Management#
 
