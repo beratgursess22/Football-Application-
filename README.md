@@ -1,10 +1,8 @@
-⚽ Football School Management App ⚽
-
-📌 Project Overview
+#Project Overview#
 
 This project was developed during my 30-day internship to build a Football School Management System using Flutter (frontend), Node.js + Express (backend), and MySQL (database). The system was designed to provide a digital solution for managing football teams, players, coaches, and training schedules.
 
-🚀 Features Implemented
+#Features Implemented#
 
 1- Authentication#
 
@@ -62,9 +60,9 @@ Gradient background, glass-effect cards, and responsive layout for a professiona
 <img width="405" height="863" alt="Screenshot 2025-09-02 at 11 23 44" src="https://github.com/user-attachments/assets/6a71d7ee-a868-4ad5-9630-87bf6c57f66f" />
 
 
-🛠️ Tech Stack
+#Tech Stack#
 
-📲 Frontend (Mobile App)#
+#Frontend (Mobile App)#
 
 Flutter (Dart)
 
@@ -74,7 +72,7 @@ Material Design UI components
 
 Custom UI/UX with gradient backgrounds, glassmorphism, responsive grids
 
-🌐 Backend#
+#Backend#
 
 Node.js + Express
 
@@ -84,7 +82,7 @@ Authentication with JWT
 
 CORS enabled for secure cross-origin requests
 
-🗄️ Database#
+#Database#
 
 MySQL with normalized tables:
 
@@ -98,7 +96,7 @@ MySQL with normalized tables:
 
 5- calendar_events (coach and player events)
 
-📂 Project Architecture (Flutter)#
+#Project Architecture (Flutter)#
 
 1- models/ → Defines entities (UserModel, PlayerModel, TeamModel, CalendarModel).
 
